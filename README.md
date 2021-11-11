@@ -4,3 +4,4 @@ A playground to practice advanced and destructive Git operations
 ## Branches
 
 1. Starter
+2. Add Authorization
