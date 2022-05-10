@@ -5,4 +5,4 @@ A playground to practice advanced and destructive Git operations
 
 The project scaffold was created
 
-Chnages to the scaffold were added
+Changes to the scaffold were added
