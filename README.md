@@ -10,3 +10,7 @@ Changes to the scaffold were added
 ## Starter
 
 The starter changes were added
+
+## Basic Authorization
+
+The basic authorization changes were added
