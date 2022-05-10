@@ -6,3 +6,7 @@ A playground to practice advanced and destructive Git operations
 Initial scaffold
 
 Added feature to the scaffold
+
+## Starter
+
+Initial starter
