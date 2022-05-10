@@ -8,3 +8,7 @@ Initial scaffold
 ## Starter
 
 Initial starter
+
+## Basic Authorization
+
+Initial basic authorization
