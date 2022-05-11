@@ -13,3 +13,7 @@ Update the project scaffold
 Initial starter
 
 Update starter
+
+## Basic Authorization
+
+Initial basic authorization
