@@ -14,3 +14,5 @@ Initial starter
 ## Basic Authorization
 
 Initial basic authorization
+
+Added feature to the basic authorization
