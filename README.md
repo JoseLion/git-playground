@@ -13,3 +13,7 @@ Also fixed a typo
 ## Starter
 
 Initial starter
+
+## Basic Authorization
+
+Initial basic authorization
