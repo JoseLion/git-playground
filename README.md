@@ -7,3 +7,5 @@ A playground to practice advanced and destructive Git operations
 Initial scaffold
 
 Update to the new scaffold
+
+Also fixed a typo
