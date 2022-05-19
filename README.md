@@ -17,3 +17,5 @@ Initial starter
 ## Basic Authorization
 
 Initial basic authorization
+
+Updated authorization
