@@ -9,3 +9,7 @@ Initial scaffold
 Update to the new scaffold
 
 Also fixed a typo
+
+## Starter
+
+Initial starter
